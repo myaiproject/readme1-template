@@ -98,13 +98,25 @@ http://www.facebook.com
 [W3school](http://www.w3school)
 [facebook][facebooklink]
 
-<!--all link is here -->
+all link is here
 [website link]:(http://www.studywithRabiul.com)
 <br>
 [facebooklink]:http://www.facebook.com
 
 ### Image syntax
 
-![profile](.C:\Users\HP\Desktop\gitpractice\pic.jpg)
+![profile](gitpractice\pic.jpg)
 <br>
+😼
 <img src="./gitpractice/pic.jpg" width ="50" heaight="50" title = "profile image"/>
+
+<br>
+
+### table
+
+| Name | Email |
+|-----|-------|
+|Rabiul Islam |Text is here|
+|Rony  |Text is here also|
+
+
