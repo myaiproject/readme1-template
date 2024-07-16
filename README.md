@@ -112,11 +112,12 @@ all link is here
 
 <br>
 
+
 ### table
 
 | Name | Email |
-|-----|-------|
-|Rabiul Islam |Text is here|
-|Rony  |Text is here also|
+| -----|------- |
+| Rabiul Islam | Text is here |
+| Rony  | Text is here also |
 
 
